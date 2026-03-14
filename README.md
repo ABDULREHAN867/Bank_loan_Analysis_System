@@ -16,8 +16,8 @@ of a fictional bank with 10 customers and 4 loan officers.
 - **customers** — Customer personal details and credit scores
 - **loans** — Loan applications, amounts, and approval status
 - **repayments** — Monthly payment history and behavior
-- ** loan_officers ** — Officer details and branch information
-- ** loan_applications ** — Application review records
+- **loan_officers**  — Officer details and branch information
+- **loan_applications**  — Application review records
 
 ## SQL Concepts Used
 - JOINS — INNER JOIN, LEFT JOIN for combining tables
